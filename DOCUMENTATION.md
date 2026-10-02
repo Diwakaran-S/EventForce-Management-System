@@ -1,6 +1,5 @@
 # EventForce: Event Management System
 ## Academic & Project Submission Documentation (Naan Mudhalvan)
-**Project Team / Developer**: **AI Warriors**
 
 ---
 
